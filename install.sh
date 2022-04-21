@@ -1,6 +1,7 @@
 #!/bin/sh
 
 mkdir -p ~/.nixpkgs
+mkdir -p ~/.nix-channels
 
 # Configure the channels
 
